@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Afi
 
 ## 💻 About Me
-I'm a **.NET Developer** passionate about building desktop apps, web apps, and REST APIs using **C#**, **.NET Core**, and **ASP.NET Core**.  
-I love learning new technologies and sharing my projects here.
+I am a **.NET Developer** passionate about building desktop apps, web apps, and REST APIs using **C#**, **.NET Core**, and **ASP.NET Core**.  
+Always eager to learn new technologies and share projects here on GitHub.
 
 - 🔭 Currently working on personal and learning projects  
-- 🌱 Learning ReactJS and advanced .NET Core  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/afi-naufal-rizky-yang-a3a0322bb) | [Email](mailto:afinaufalrizkyyang24@gmail.com)
+- 🌱 Exploring ReactJS and advanced .NET Core  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/afi-naufal-rizky-yang-a3a0322bb) or [Email](mailto:afinaufalrizkyyang24@gmail.com)
 
 ---
 
@@ -19,9 +19,9 @@ I love learning new technologies and sharing my projects here.
 ---
 
 ## 🚀 Featured Projects
-- [Car Rental API](https://github.com/aafiii-v/ProjectCarAPI.git) – REST API with .NET Core  
-- [Coffee Shop Website](https://coffee-shop-seven-roan.vercel.app) – Built with HTML & CSS  
-- [Car Rental Website](https://github.com/aafiii-v/rental-mobil.git) – ReactJS project  
+- [Car Rental API](https://github.com/aafiii-v/ProjectCarAPI.git) — REST API with .NET Core  
+- [Coffee Shop Website](https://coffee-shop-seven-roan.vercel.app) — Built with HTML & CSS  
+- [Car Rental Website](https://github.com/aafiii-v/rental-mobil.git) — ReactJS project  
 
 ---
 
